@@ -1,4 +1,4 @@
 # Portfolio
 HTML and  CSS  project portfolio.
-## description
+## Description
 This project uses semantic HTML and basic CSS. 
