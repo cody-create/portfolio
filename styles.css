@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* body color */
+body {
+    color: antiquewhite;
+    background-color: rgb(28, 28, 28);
+}
+
+.all-main {
+    margin: auto;
+    padding: auto;
+    width: 60%;
+}
+
+/* logo banner styling */
+.logo {
+    font-size: larger;
+    text-align: center;
+    background: rgba(69, 1, 1, 0.848);
+    color: antiquewhite;
+    height: 100px;
+
+}
+
+/* styling my image */
+img {
+    padding: 50px;
+    border-radius: 50%;
+}
+
+.profile-space {
+    display: flex;
+    justify-content: center;
+    width: 99%;
+}
+
+.name {
+    margin-bottom: 19px;
+}
+
+.intro {
+
+    text-align: center;
+}
+
+.art-1 {
+    font-size: 14px;
+    text-align: center;
+}
+
+
+
+/* footer and contact styling */
+.contact-links {
+    padding: 5% 20%;
+}
+
+a:link {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: whitesmoke;
+}
+
+.name-2 {
+    background: rgba(69, 1, 1, 0.848);
+    text-align: center;
+    height: 50px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
